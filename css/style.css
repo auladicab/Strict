@@ -312,5 +312,9 @@ footer{
     width: 50%;
     float: left;
 }
+.terms h3{
+    color: #999999;
+    font-size: 15px;
+}
 
 
