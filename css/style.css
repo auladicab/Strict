@@ -283,4 +283,34 @@ form input:focus{
 form textarea:focus{
     outline: none;
 } 
+footer{
+    background-color: #f6f9f9;
+}
+.footer-content{
+    width: 80%;
+    padding: 30px 0;
+    margin: auto;
+    overflow: hidden
+}
+.social-icon{
+    width: 30%;
+    float: right;
+}
+.social-icon ul{
+    list-style: none;
+    float: right;
+    display: flex;
+
+}
+.social-icon ul li{
+    float: left;
+    margin-left: 20px;
+   
+}
+
+.terms{
+    width: 50%;
+    float: left;
+}
+
 
